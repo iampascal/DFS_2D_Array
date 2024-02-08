@@ -1,0 +1,6 @@
+# Ignore JetBrains CLion IDEA created project-specific settings and configurations
+.idea/
+# Ignore directory created by CMake for debug builds
+cmake-build-debug/
+# Ignore all log files
+*.log
